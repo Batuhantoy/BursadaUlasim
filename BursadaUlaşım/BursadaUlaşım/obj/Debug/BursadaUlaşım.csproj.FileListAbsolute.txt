@@ -1,0 +1,30 @@
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.exe.config
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.pdb
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.Form1.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.pdb
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.Core.dll
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.Core.xml
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.detaylar.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.gmapOnClick.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.saatler.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.exe.config
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.exe
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\BursadaUlaşım.pdb
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.Core.xml
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.detaylar.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.Form1.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.gmapOnClick.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.saatler.resources
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.exe
+C:\Users\Batuhan\Desktop\Documents\Windows Form\BursadaUlaşım\BursadaUlaşım\obj\Debug\BursadaUlaşım.pdb
